@@ -1,6 +1,6 @@
 @echo off
 :A
-start www.pornhub.com
-start www.hanime.com
-start www.gmail.com
+start https://warzoneloadout.games/warzone-meta/
+start https://www.chess.com/home
+start https://gamehacking.org/game/103579
 goto :A
